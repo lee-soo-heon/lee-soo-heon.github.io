@@ -10,6 +10,6 @@ tags:
   - nono
   - aa
 author: SooNy
-paginate: false
+paginate: true
 ---
-aaasdas
+# aaasdas
