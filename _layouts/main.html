@@ -1,8 +1,4 @@
----
-layout: compress
----
-
-<!DOCTYPE html>
+<!doctype html>
 <html lang="{{ site.language }}">
     {% include head.html %}
     <body class="main-page has-push-menu">
@@ -13,7 +9,7 @@ layout: compress
             </section>
         {% include footer.html %}
         <script>
-            if (window.netflifyIdentity) {
+            if (window.netlifyIdentity) {
                 window.netlifyIdentity.on("init", function(user) {
                     if (!user) {
                         window.netlifyIdentity.on("login", function() {
@@ -25,4 +21,3 @@ layout: compress
         </script>
     </body>
 </html>
-
