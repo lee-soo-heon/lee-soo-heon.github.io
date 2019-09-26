@@ -1,5 +1,5 @@
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
+name: Dan's Flix
+title: Dan's Flix | LEE
 description: Dan's flix is a template for Jekyll inspired by Netflix.
 tags:
   - blog
@@ -7,5 +7,6 @@ tags:
   - jekyll
   - theme
   - netlify
-disqus_username: disqus_username
+  - Dan's Flix
 show_hero: true
+disqus_username: LEE
