@@ -1,15 +1,15 @@
 ---
 layout: author
 photo: /assets/img/uploads/profile.png
-name: thiagorossener
-display_name: Thiago Rossener
+name: SooNy
+display_name: SooNy
 position: Chief Editor
 bio: Just a developer.
-github_username: thiagorossener
-facebook_username: thiagorossener
-twitter_username: thiagorossener
-instagram_username: thiagorossener
-linkedin_username: thiagorossener
-medium_username: thiagorossener
+github_username: SooNy
+facebook_username: SooNy
+twitter_username: SooNy
+instagram_username: SooNy
+linkedin_username: SooNy
+medium_username: SooNy
 ---
 
